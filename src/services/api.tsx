@@ -1,6 +1,6 @@
 // API Configuration and Service Layer
 // Update BASE_URL to match your backend endpoint
-const BASE_URL = 'http://localhost:8000/api';
+const BASE_URL = 'https://trip-plan-backend-two.vercel.app/api';
 // Change this to your backend URL
 
 import Cookies from 'js-cookie';
